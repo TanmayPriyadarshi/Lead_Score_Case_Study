@@ -12,7 +12,7 @@ In this project we have tried to implement a model based on Logistic regression 
 For this project we have following documents to build and support our case study: -
 - Lead Scoring Case Study_Final_Version.ipynb : Assignment Python Notebook file.
 - Lead Scoring PPT Final.pdf : presentation file
-- Assignment Subjective Questions_Final_Version.docx: Subject Question Solution file
+- Assignment Subjective Questions_Final_Version.pdf: Subject Question Solution file
 - Summary_Report_Final.pdf : Summary Report of project
 
 ## Steps Followed
